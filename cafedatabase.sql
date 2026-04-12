@@ -6,8 +6,7 @@ USE cdv;
 CREATE TABLE menu_snacks (
     Item_ID VARCHAR(10) PRIMARY KEY, 
     Item_Name VARCHAR(30), 
-    MRP FLOAT
-);
+    MRP FLOAT);
 
 INSERT INTO menu_snacks VALUES('S100', 'Veg Burger', 110);
 INSERT INTO menu_snacks VALUES('S101', 'Chicken Burger', 120);
@@ -35,8 +34,7 @@ INSERT INTO menu_snacks VALUES('S120', 'Waffles/Pancakes', 190);
 CREATE TABLE menu_beverages (
     Item_ID VARCHAR(10) PRIMARY KEY, 
     Item_Name CHAR(30), 
-    MRP FLOAT
-);
+    MRP FLOAT);
 
 INSERT INTO menu_beverages VALUES ("B100", "Hot Coffee", 45);
 INSERT INTO menu_beverages VALUES ("B101", "Cold Coffee", 50);
