@@ -43,3 +43,8 @@ Python versions: 3.9.X or later
 MySQL version: MySQL Installer 8.0.39 
 Installed RAM: 8 GB 
 Pre-requisites before installing MySQL connector Python: - You need root or administrator privileges to perform the installation process. - MySQL connector Python required Python to be the system’s PATH. Installation fails if it doesn’t find Python. - Incase python doesn’t exist in the system PATH, please manually add the directory containing python.exe yourself.
+
+NOTE:
+Admin ID : admincdv
+Password : 1234
+Coupon code : 1002
