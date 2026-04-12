@@ -5,7 +5,7 @@ import mysql.connector as ms
 conn = ms.connect(
     host="localhost",
     user="root",
-    password="irene@sql",
+    password="insert your password",
     database="cdv")
  
 cur = conn.cursor()
