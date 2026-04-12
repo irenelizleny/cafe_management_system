@@ -1,10 +1,10 @@
 # cafe_management_system
-The project “Café de Velours – Café Management and Billing System” is designed to simplify and 
+The project “Café de Velours - Café Management and Billing System” is designed to simplify and 
 digitalize the everyday operations of a café. It provides a user-friendly program that allows both customers 
 and administrators to interact with the system efficiently, ensuring smooth management of menu items, 
 orders, and billing processes. 
 The system has been developed using Python as the front-end application layer and MySQL as the back
-end database. It serves two primary users — the Admin and the Customer — each with distinct 
+end database. It serves two primary users, the Admin and the Customer - each with distinct 
 functionalities. 
 For the Admin, the program provides options to: 
 • Add new snack and beverage items to the menu 
