@@ -20,7 +20,19 @@ valid coupon code is applied
 The program ensures accuracy in billing and efficiency in data management, eliminating manual 
 calculations and reducing errors.  
  
+The Café de Velours – Café Management and Billing System is an effort in digitalizing 
+café operations. The primary goal of creating a strong, digital, and easy-to-use system for 
+running a small café was achieved. The system utilizes Python for its core program logic and 
+MySQL to securely store all necessary menu and order data, creating a program that manages 
+the entire process from menu viewing to final bill generation. 
  
+Overall, the Café de Velours stands as an example of how coding and database management 
+can be used to facilitate café operations. It is a solid, reliable program that offers significant 
+potential for future development, such as integrating a web-based ordering page or connecting 
+to external payment hardware. The project successfully proves that effective management 
+tools can be constructed using fundamental programming and database technology. 
+
+
 SOFTWARE AND HARDWARE REQUIREMENTS 
  
 This section details the minimum essential components required for the successful running of the program Café de Velours – Café Management and Billing System. 
