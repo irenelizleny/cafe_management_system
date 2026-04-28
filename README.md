@@ -40,11 +40,36 @@ Customer Functionalities
 <img width="738" height="779" alt="image" src="https://github.com/user-attachments/assets/18bc2cb4-3dc7-4e8d-b47c-049d116402ad" />
 <img width="742" height="816" alt="image" src="https://github.com/user-attachments/assets/3735c897-4d5d-4f52-8488-5f6384a7697e" />
 
+Challenges Faced
+
+- Establishing a connection between Python and MySQL
+- Designing a relational database structure
+- Implementing accurate billing logic with discounts
+- Managing user interaction in a console-based system
+
+Key Learnings
+
+- Practical understanding of database integration
+- Writing structured backend logic in Python
+- Handling real-world scenarios like inventory and billing
+- Improving problem-solving and debugging skills
+
+Future Improvements
+
+- Add graphical user interface (GUI) using Tkinter or web technologies
+- Implement online ordering functionality
+- Integrate payment systems
+- Enhance UI/UX for better user experience
+
 Tech Stack
 
 - Python – Core application logic
 - MySQL – Database for storing menu and order data
 - MySQL Connector – Integration between Python and MySQL
+
+Project Scope
+
+This project demonstrates how fundamental programming and database concepts can be applied to solve real-world business problems like café management. It serves as a strong foundation for building more advanced full-stack or enterprise-level applications.
 
 ---
 
